@@ -1,4 +1,4 @@
-FROM kaarol/jmeter-base:latest
+FROM cloudhero/jmeter-base:latest
 LABEL maintainer="kaarol@it-flow.pl"
 
 EXPOSE 60000
